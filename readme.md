@@ -1,4 +1,4 @@
-# Mental Health Recognition Codebase
+# HRV and GSR as Viable Physiological Markers for Mental Health Recognition
 
 This is the codebase for the paper [HRV and GSR as Viable Physiological Markers for Mental Health Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9668439).
 
@@ -32,6 +32,7 @@ derived Heart Rate Variability (HRV) features using machine
 
 
 ## Usage
+The individual jupyter notebook files contains the complete code to run the codes for the different experimetns explained in the paper.
 
 Instructions on how to use the code will be provided here.
 
